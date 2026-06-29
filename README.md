@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tanvi Pathare
+# Tanvi Pramod Pathare
 
 **AI Engineer in Training · LLM Systems & Inference Pipelines**
 
