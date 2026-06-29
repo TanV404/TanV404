@@ -15,8 +15,6 @@
 
 I build production-grade AI systems. Currently a **Data Scientist at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale.
 
-My T-shape: **LLM inference, RAG pipelines, and AI backend engineering** as the vertical — everything else branches from there.
-
 ---
 
 ## Featured Projects
@@ -58,15 +56,3 @@ Content-based recommendation engine + sentiment analysis on Netflix catalog data
 
 **Tools**
 `Git` `Docker` `Vercel` `Render` `VS Code`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Tanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanv404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanv404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
