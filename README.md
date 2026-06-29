@@ -1,18 +1,72 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanvi Pathare
-======================================================================================================================================
+<div align="center">
 
-AI & Data Enthusiast | Software Engineer
-----------------------------------------
+# Tanvi Pramod Pathare
 
-Building reliable software and AI-powered applications with experience in frontend development, test automation, and scalable systems. Skilled in React, TypeScript, JavaScript, Python, SQL, Firebase, Supabase, PostgreSQL, Docker, and RabbitMQ, with interests spanning AI/ML, data engineering, and full-stack development. Passionate about creating practical solutions, contributing to clean code, and continuously learning emerging technologies.
+**AI Engineer in Training · LLM Systems & Inference Pipelines**
 
-* 🖥️  See my portfolio at [Portfolio](http://tanvipathare.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanvi--pathare.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](http://tanvi-pathare.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-tanv404-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanv404)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/tanv404" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<br /><br /><br /><br /><br /><br /><br />
+## About
+
+I build production-grade AI systems. Currently a **Data Scientist at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale.
+
+My T-shape: **LLM inference, RAG pipelines, and AI backend engineering** as the vertical — everything else branches from there.
+
+---
+
+## Featured Projects
+
+### 🤖 [FinBOT](https://github.com/tanv404/finbot) — Hybrid Graph-Vector RAG Financial Chatbot
+Built a production-quality RAG system over NIFTY 50 companies using a **dual-retrieval architecture**: NetworkX knowledge graph (relationship traversal) + ChromaDB vector store (semantic search). LangChain orchestration with Groq → Gemini → Ollama fallback chain. Streaming responses with source citation tags.
+
+`Python` `LangChain` `NetworkX` `ChromaDB` `FastAPI` `Next.js` `Groq` `Gemini`
+
+---
+
+### 📉 [TelcoChurn](https://github.com/tanv404/telcochurn) — Churn Prediction with Threshold Tuning
+XGBoost classifier with SMOTE oversampling and custom threshold tuning (0.3) to optimize recall (~0.82) for imbalanced telecom data. Deployed on Streamlit with an interactive dashboard.
+
+`Python` `XGBoost` `SMOTE` `Scikit-learn` `Streamlit`
+
+---
+
+### 🎬 [NetData](https://github.com/tanv404/netdata) — Netflix Sentiment & Recommendation Dashboard
+Content-based recommendation engine + sentiment analysis on Netflix catalog data. Interactive visual dashboard for exploring genre trends and user sentiment signals.
+
+`Python` `Pandas` `NLP` `Streamlit`
+
+---
+
+## Tech Stack
+
+**Languages**
+`Python` `C++` `TypeScript` `JavaScript` `SQL`
+
+**AI / ML**
+`LangChain` `LangGraph` `ChromaDB` `XGBoost` `Scikit-learn` `HuggingFace` `Gemini API` `Groq`
+
+**Backend & Data**
+`FastAPI` `Node.js` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Firebase` `Supabase`
+
+**Frontend**
+`React` `Next.js 14` `TypeScript` `Tailwind CSS`
+
+**Tools**
+`Git` `Docker` `Vercel` `Render` `VS Code`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Tanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanv404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanv404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
