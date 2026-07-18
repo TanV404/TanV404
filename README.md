@@ -26,7 +26,7 @@ Built a production-quality RAG system over NIFTY 50 companies using a **dual-ret
 
 ---
 
-### 📉 [TelcoChurn](https://github.com/tanv404/telcochurn) — Churn Prediction with Threshold Tuning
+### 📉 [TelcoChurn Predictor](https://github.com/TanV404/Telco-Churn-Predictor) — Churn Prediction with Threshold Tuning
 XGBoost classifier with SMOTE oversampling and custom threshold tuning (0.3) to optimize recall (~0.82) for imbalanced telecom data. Deployed on Streamlit with an interactive dashboard.
 
 `Python` `XGBoost` `SMOTE` `Scikit-learn` `Streamlit`
