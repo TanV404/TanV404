@@ -12,7 +12,7 @@
 
 ## About
 
-I build production-grade AI systems. Currently a **Data Scientist at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale. Incoming MS in Computer Science at **UC Irvine** (Fall 2026), focused on deepening the systems and algorithms foundation behind that work.
+I build production-grade AI systems. Currently a **Data Scientist at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale. Focused on deepening the systems and algorithms foundation behind that work.
 
 ---
 
