@@ -26,7 +26,7 @@ Production-quality RAG system over NIFTY 50 companies using a **dual-retrieval a
 
 ---
 
-### 📉 [TelcoChurn Predictor](https://github.com/TanV404/Telco-Churn-Predictor) — Churn Prediction with Threshold Tuning
+### 📉 [TelcoChurn Predictor](https://github.com/TanV404/Telco-Churn) — Churn Prediction with Threshold Tuning
 
 Benchmarked 5 classification models on imbalanced telecom churn data, with SMOTE oversampling and SHAP-based explainability. Tuned the decision threshold to 0.28 to optimize for business cost, reaching a 0.852 ROC-AUC and 0.81 recall. Deployed on Streamlit with an interactive dashboard.
 
@@ -34,7 +34,7 @@ Benchmarked 5 classification models on imbalanced telecom churn data, with SMOTE
 
 ---
 
-### 💰 [SpendWise](https://github.com/tanv404/spendwise) — Full-Stack Personal Finance Tracker
+### 💰 [SpendWise](https://github.com/TanV404/SpendWiseV3) — Full-Stack Personal Finance Tracker
 
 End-to-end finance tracking app with a FastAPI + PostgreSQL backend (Alembic migrations, custom JWT auth) and a React/TypeScript frontend. Supports CSV statement import with validation, duplicate-transaction detection via content hashing, recurring subscription tracking, budget forecasting, and email alerts via Resend. Containerized with Docker and shipped through a GitHub Actions CI pipeline to Render/Vercel.
 
