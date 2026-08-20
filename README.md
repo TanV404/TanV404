@@ -1,7 +1,6 @@
 <div align="center">
 
 # Tanvi Pramod Pathare
-
 **AI Engineer in Training · LLM Systems & Inference Pipelines**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanvi--pathare.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](http://tanvi-pathare.vercel.app/)
@@ -13,30 +12,33 @@
 
 ## About
 
-I build production-grade AI systems. Currently a **Data Scientist at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale.
+I build production-grade AI systems. Currently a **Data Scientist at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale. Incoming MS in Computer Science at **UC Irvine** (Fall 2026), focused on deepening the systems and algorithms foundation behind that work.
 
 ---
 
 ## Featured Projects
 
 ### 🤖 [FinBOT](https://github.com/tanv404/finbot) — Hybrid Graph-Vector RAG Financial Chatbot
-Built a production-quality RAG system over NIFTY 50 companies using a **dual-retrieval architecture**: NetworkX knowledge graph (relationship traversal) + ChromaDB vector store (semantic search). LangChain orchestration with Groq → Gemini → Ollama fallback chain. Streaming responses with source citation tags.
 
-`Python` `LangChain` `NetworkX` `ChromaDB` `FastAPI` `Next.js` `Groq` `Gemini`
+Production-quality RAG system over NIFTY 50 companies using a **dual-retrieval architecture**: a NetworkX knowledge graph for relationship traversal paired with a ChromaDB vector store for semantic search. LangChain orchestrates a Groq → Gemini → Ollama fallback chain, with streaming responses and inline source-citation tags. Backed by a custom RAG evaluation harness achieving ~95% context hit rate.
+
+`Python` `LangChain` `NetworkX` `ChromaDB` `FastAPI` `Next.js` `Groq` `Gemini` `Supabase`
 
 ---
 
 ### 📉 [TelcoChurn Predictor](https://github.com/TanV404/Telco-Churn-Predictor) — Churn Prediction with Threshold Tuning
-XGBoost classifier with SMOTE oversampling and custom threshold tuning (0.3) to optimize recall (~0.82) for imbalanced telecom data. Deployed on Streamlit with an interactive dashboard.
 
-`Python` `XGBoost` `SMOTE` `Scikit-learn` `Streamlit`
+Benchmarked 5 classification models on imbalanced telecom churn data, with SMOTE oversampling and SHAP-based explainability. Tuned the decision threshold to 0.28 to optimize for business cost, reaching a 0.852 ROC-AUC and 0.81 recall. Deployed on Streamlit with an interactive dashboard.
+
+`Python` `XGBoost` `SMOTE` `SHAP` `Scikit-learn` `Streamlit`
 
 ---
 
-### 🎬 [NetData](https://github.com/tanv404/netdata) — Netflix Sentiment & Recommendation Dashboard
-Content-based recommendation engine + sentiment analysis on Netflix catalog data. Interactive visual dashboard for exploring genre trends and user sentiment signals.
+### 💰 [SpendWise](https://github.com/tanv404/spendwise) — Full-Stack Personal Finance Tracker
 
-`Python` `Pandas` `NLP` `Streamlit`
+End-to-end finance tracking app with a FastAPI + PostgreSQL backend (Alembic migrations, custom JWT auth) and a React/TypeScript frontend. Supports CSV statement import with validation, duplicate-transaction detection via content hashing, recurring subscription tracking, budget forecasting, and email alerts via Resend. Containerized with Docker and shipped through a GitHub Actions CI pipeline to Render/Vercel.
+
+`Python` `FastAPI` `PostgreSQL` `Alembic` `React` `TypeScript` `Docker` `GitHub Actions` `Resend`
 
 ---
 
