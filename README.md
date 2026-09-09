@@ -12,7 +12,7 @@
 
 ## About
 
-I build production-grade AI systems. Currently a **Data Scientist at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale. Focused on deepening the systems and algorithms foundation behind that work.
+I build production-grade AI systems. Currently a **Associate QA Engineer at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale. Focused on deepening the systems and algorithms foundation behind that work.
 
 ---
 
