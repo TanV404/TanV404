@@ -1,77 +1,165 @@
+```html
+<div align="center">
+
 # Tanvi Pramod Pathare
 
-**AI/ML Engineer | LLM Applications | Backend Systems**
+### AI/ML Engineer · LLM Applications · Backend Systems
 
-[Portfolio](https://tanvi-pathare.vercel.app/) · [GitHub](https://github.com/tanv404)
+Building practical AI applications and reliable software systems.
 
----
+<a href="https://tanvi-pathare.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/tanv404">
+  <img src="https://img.shields.io/badge/GitHub-tanv404-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4338CA,100:7C3AED&height=3" width="100%" alt=""/>
 
-I'm a computer science graduate student at **UC Irvine**, interested in building practical AI applications and reliable backend systems.
+</div>
 
-Previously, I worked at **Jio Platforms**, where I contributed to production audio AI pipelines, implemented JWT authentication for API endpoints, and helped migrate AI services from Sarvam AI to Gemini.
+## ✦ About Me
 
-I'm currently exploring LLM applications, retrieval-augmented generation (RAG), machine learning, and scalable software systems.
+I'm a Computer Science graduate student at **UC Irvine**, interested in building AI-powered applications, LLM systems, and scalable backend services.
 
----
+Previously at **Jio Platforms**, I worked on production audio AI pipelines, API authentication, and AI service migration from Sarvam AI to Gemini.
 
-## Featured Projects
-
-### 🤖 [FinBOT](https://github.com/tanv404/finbot)
-**Financial Research Chatbot | Graph + Vector Search**
-
-Built a chatbot that answers questions about NIFTY 50 companies by combining company relationships with semantic search across financial and corporate information.
-
-- Combines knowledge graph traversal and vector search to retrieve relevant information.
-- Supports conversation history, streaming responses, and source citations.
-- Includes fallback between multiple LLM providers for more reliable responses.
-- Achieved approximately **95% context hit rate** in custom retrieval evaluations.
-
-`Python` `LangChain` `NetworkX` `ChromaDB` `FastAPI` `Next.js` `Supabase`
-
-### 📉 [TelcoChurn Predictor](https://github.com/TanV404/Telco-Churn)
-**Customer Churn Prediction & Retention Optimization**
-
-Developed a machine learning application that predicts which telecom customers are likely to leave and helps identify cost-effective retention strategies.
-
-- Compared **5 machine learning models**, with XGBoost achieving a **0.852 ROC-AUC** score.
-- Achieved **81% recall** using an optimized prediction threshold of 0.28.
-- Used SHAP to explain predictions and identify important churn factors.
-- Built an interactive Streamlit dashboard with business profit estimates.
-
-`Python` `XGBoost` `Scikit-learn` `SHAP` `Streamlit`
-
-### 💰 [SpendWise](https://github.com/TanV404/SpendWiseV3)
-**Personal Finance Tracker | Full-Stack Application**
-
-Created a finance management application that helps users track spending, manage budgets, and monitor recurring expenses.
-
-- Built transaction management with CSV imports, validation, and duplicate detection.
-- Added budget tracking, spending forecasts, recurring subscriptions, and email alerts.
-- Developed a REST API with secure authentication and a PostgreSQL database.
-- Automated testing and deployment using Docker and GitHub Actions.
-
-`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker` `GitHub Actions`
+- 🎓 Pursuing an MS in Computer Science at UC Irvine
+- 🤖 Exploring LLMs, RAG, machine learning, and AI infrastructure
+- ⚙️ Interested in backend engineering and production-ready AI systems
+- 🚀 Always building, learning, and experimenting
 
 ---
 
-## Technical Skills
+## ✦ Featured Projects
 
-**Languages:** Python, C++, TypeScript, JavaScript, SQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI & Machine Learning:** LangChain, LangGraph, Hugging Face, Scikit-learn, XGBoost, SHAP, ChromaDB, Gemini API, Groq
+### 🤖 FinBOT
 
-**Backend & Databases:** FastAPI, Node.js, PostgreSQL, Redis, RabbitMQ, Supabase, Firebase
+**Financial Research · Graph + Vector RAG**
 
-**Frontend:** React, Next.js, Tailwind CSS
+A chatbot for researching NIFTY 50 companies using knowledge graphs and semantic search.
 
-**Tools & Platforms:** Git, Docker, GitHub Actions, Vercel, Render
+- Combines graph traversal with vector retrieval
+- Supports conversation history and source citations
+- Includes LLM provider fallbacks
+- Achieved approximately **95% context hit rate** in custom evaluations
+
+<a href="https://github.com/tanv404/finbot">
+  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View FinBOT"/>
+</a>
+
+`Python` `LangChain` `ChromaDB` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 TelcoChurn
+
+**Machine Learning · Customer Retention**
+
+Predicts customer churn and explores cost-effective retention strategies.
+
+- Benchmarked **5 machine learning models**
+- Achieved **0.852 ROC-AUC**
+- Reached **81% recall** at an optimized threshold
+- Includes SHAP explanations and an interactive dashboard
+
+<a href="https://github.com/TanV404/Telco-Churn">
+  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View TelcoChurn"/>
+</a>
+
+`Python` `XGBoost` `SHAP` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 💰 SpendWise
+
+**Full-Stack Development · Personal Finance**
+
+A personal finance tracker for managing transactions, budgets, savings, and recurring subscriptions.
+
+- CSV imports with validation and duplicate detection
+- Budget tracking, spending forecasts, and email alerts
+- FastAPI backend with PostgreSQL and JWT authentication
+- Automated CI and deployment workflow
+
+<div align="left">
+<a href="https://github.com/TanV404/SpendWiseV3">
+  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View SpendWise"/>
+</a>
+</div>
+
+`FastAPI` `PostgreSQL` `React` `TypeScript` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+## ✦ Tech Stack
 
-I'm interested in opportunities involving AI engineering, machine learning, backend development, and LLM-powered applications.
+<div align="center">
 
-[Portfolio](https://tanvi-pathare.vercel.app/) · [GitHub](https://github.com/tanv404)
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,postgres" alt="Python, C++, TypeScript, JavaScript, PostgreSQL"/>
+
+### AI / ML & LLMs
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/SHAP-8B5CF6?style=flat-square" alt="SHAP"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,docker,supabase,firebase" alt="Backend and database technologies"/>
+
+### Frontend & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,githubactions,vercel" alt="Frontend and developer tools"/>
+
+</div>
+
+---
+
+## ✦ GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanv404&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanv404&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanv404&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## ✦ Let's Connect
+
+<div align="center">
+
+Interested in AI engineering, machine learning, LLM applications, and backend development.
+
+<a href="https://tanvi-pathare.vercel.app/">Portfolio</a> ·
+<a href="https://github.com/tanv404">GitHub</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0F172A&height=3" width="100%" alt=""/>
+
+*Thanks for stopping by!*
+
+</div>
+```
