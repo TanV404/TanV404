@@ -43,32 +43,12 @@ A chatbot for researching NIFTY 50 companies using knowledge graphs and semantic
 - Includes LLM provider fallbacks
 - Approximately **95% context hit rate** in custom evaluations
 
-[![Explore](https://img.shields.io/badge/Explore%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanv404/finbot)
+[![Explore Project](https://img.shields.io/badge/Explore%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanv404/finbot)
 
 `Python` `LangChain` `ChromaDB` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
-
-### 📉 TelcoChurn
-
-**Machine Learning · Customer Retention**
-
-Predicts customer churn and helps explore cost-effective retention strategies.
-
-- Benchmarked **5 machine learning models**
-- Achieved **0.852 ROC-AUC**
-- Reached **81% recall**
-- Includes SHAP explanations and an interactive dashboard
-
-[![Explore](https://img.shields.io/badge/Explore%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanV404/Telco-Churn)
-
-`Python` `XGBoost` `SHAP` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 ### 💰 SpendWise
 
@@ -81,7 +61,7 @@ A finance tracker for managing transactions, budgets, savings, and recurring sub
 - FastAPI backend with PostgreSQL and JWT authentication
 - Automated testing and deployment workflow
 
-[![Explore](https://img.shields.io/badge/Explore%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanV404/SpendWiseV3)
+[![Explore Project](https://img.shields.io/badge/Explore%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanV404/SpendWiseV3)
 
 `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker`
 
