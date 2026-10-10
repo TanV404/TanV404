@@ -12,7 +12,7 @@
 
 ## About
 
-I build production-grade AI systems. Currently an **Associate QA Engineer at Jio Platforms**, working on audio AI pipelines, multi-task inference, and LLM API migration at scale. Focused on deepening the systems and algorithms foundation behind that work.
+I build production-grade AI systems. Previously at **Jio Platforms**, where I owned JWT authentication for producer endpoints, led an LLM API migration (Sarvam to Gemini), and contributed to an audio AI pipeline at scale. Now pursuing an **MS in Computer Science at UC Irvine** (Fall 2026 to Dec 2027), deepening the systems, algorithms, and AI foundations behind that work.
 
 ---
 
