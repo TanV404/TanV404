@@ -2,9 +2,7 @@
 
 # Tanvi Pramod Pathare
 
-### AI/ML Engineer · LLM Applications · Backend Systems
-
-*Building practical AI applications and reliable software systems.*
+### AI/ML · LLM Applications · Backend Systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://tanvi-pathare.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-tanv404-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanv404)
