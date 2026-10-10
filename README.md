@@ -1,60 +1,77 @@
-<div align="center">
-
 # Tanvi Pramod Pathare
-**AI Engineer in Training · LLM Systems & Inference Pipelines**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanvi--pathare.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](http://tanvi-pathare.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-tanv404-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanv404)
+**AI/ML Engineer | LLM Applications | Backend Systems**
 
-</div>
+[Portfolio](https://tanvi-pathare.vercel.app/) · [GitHub](https://github.com/tanv404)
 
 ---
 
-## About
+## About Me
 
-I build production-grade AI systems. Previously at **Jio Platforms**, where I owned JWT authentication for producer endpoints, led an LLM API migration (Sarvam to Gemini), and contributed to an audio AI pipeline at scale. Now pursuing an **MS in Computer Science at UC Irvine** (Fall 2026 to Dec 2027), deepening the systems, algorithms, and AI foundations behind that work.
+I'm a computer science graduate student at **UC Irvine**, interested in building practical AI applications and reliable backend systems.
+
+Previously, I worked at **Jio Platforms**, where I contributed to production audio AI pipelines, implemented JWT authentication for API endpoints, and helped migrate AI services from Sarvam AI to Gemini.
+
+I'm currently exploring LLM applications, retrieval-augmented generation (RAG), machine learning, and scalable software systems.
 
 ---
 
 ## Featured Projects
 
-### 🤖 [FinBOT](https://github.com/tanv404/finbot) — Hybrid Graph-Vector RAG Financial Chatbot
+### 🤖 [FinBOT](https://github.com/tanv404/finbot)
+**Financial Research Chatbot | Graph + Vector Search**
 
-Production-quality RAG system over NIFTY 50 companies using a **dual-retrieval architecture**: a NetworkX knowledge graph for relationship traversal paired with a ChromaDB vector store for semantic search. LangChain orchestrates a Groq → Gemini → Ollama fallback chain, with streaming responses and inline source-citation tags. Backed by a custom RAG evaluation harness achieving ~95% context hit rate.
+Built a chatbot that answers questions about NIFTY 50 companies by combining company relationships with semantic search across financial and corporate information.
 
-`Python` `LangChain` `NetworkX` `ChromaDB` `FastAPI` `Next.js` `Groq` `Gemini` `Supabase`
+- Combines knowledge graph traversal and vector search to retrieve relevant information.
+- Supports conversation history, streaming responses, and source citations.
+- Includes fallback between multiple LLM providers for more reliable responses.
+- Achieved approximately **95% context hit rate** in custom retrieval evaluations.
+
+`Python` `LangChain` `NetworkX` `ChromaDB` `FastAPI` `Next.js` `Supabase`
+
+### 📉 [TelcoChurn Predictor](https://github.com/TanV404/Telco-Churn)
+**Customer Churn Prediction & Retention Optimization**
+
+Developed a machine learning application that predicts which telecom customers are likely to leave and helps identify cost-effective retention strategies.
+
+- Compared **5 machine learning models**, with XGBoost achieving a **0.852 ROC-AUC** score.
+- Achieved **81% recall** using an optimized prediction threshold of 0.28.
+- Used SHAP to explain predictions and identify important churn factors.
+- Built an interactive Streamlit dashboard with business profit estimates.
+
+`Python` `XGBoost` `Scikit-learn` `SHAP` `Streamlit`
+
+### 💰 [SpendWise](https://github.com/TanV404/SpendWiseV3)
+**Personal Finance Tracker | Full-Stack Application**
+
+Created a finance management application that helps users track spending, manage budgets, and monitor recurring expenses.
+
+- Built transaction management with CSV imports, validation, and duplicate detection.
+- Added budget tracking, spending forecasts, recurring subscriptions, and email alerts.
+- Developed a REST API with secure authentication and a PostgreSQL database.
+- Automated testing and deployment using Docker and GitHub Actions.
+
+`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker` `GitHub Actions`
 
 ---
 
-### 📉 [TelcoChurn Predictor](https://github.com/TanV404/Telco-Churn) — Churn Prediction with Threshold Tuning
+## Technical Skills
 
-Benchmarked 5 classification models on imbalanced telecom churn data, with SMOTE oversampling and SHAP-based explainability. Tuned the decision threshold to 0.28 to optimize for business cost, reaching a 0.852 ROC-AUC and 0.81 recall. Deployed on Streamlit with an interactive dashboard.
+**Languages:** Python, C++, TypeScript, JavaScript, SQL
 
-`Python` `XGBoost` `SMOTE` `SHAP` `Scikit-learn` `Streamlit`
+**AI & Machine Learning:** LangChain, LangGraph, Hugging Face, Scikit-learn, XGBoost, SHAP, ChromaDB, Gemini API, Groq
 
----
+**Backend & Databases:** FastAPI, Node.js, PostgreSQL, Redis, RabbitMQ, Supabase, Firebase
 
-### 💰 [SpendWise](https://github.com/TanV404/SpendWiseV3) — Full-Stack Personal Finance Tracker
+**Frontend:** React, Next.js, Tailwind CSS
 
-End-to-end finance tracking app with a FastAPI + PostgreSQL backend (Alembic migrations, custom JWT auth) and a React/TypeScript frontend. Supports CSV statement import with validation, duplicate-transaction detection via content hashing, recurring subscription tracking, budget forecasting, and email alerts via Resend. Containerized with Docker and shipped through a GitHub Actions CI pipeline to Render/Vercel.
-
-`Python` `FastAPI` `PostgreSQL` `Alembic` `React` `TypeScript` `Docker` `GitHub Actions` `Resend`
+**Tools & Platforms:** Git, Docker, GitHub Actions, Vercel, Render
 
 ---
 
-## Tech Stack
+## Let's Connect
 
-**Languages**
-`Python` `C++` `TypeScript` `JavaScript` `SQL`
+I'm interested in opportunities involving AI engineering, machine learning, backend development, and LLM-powered applications.
 
-**AI / ML**
-`LangChain` `LangGraph` `ChromaDB` `XGBoost` `Scikit-learn` `HuggingFace` `Gemini API` `Groq`
-
-**Backend & Data**
-`FastAPI` `Node.js` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Firebase` `Supabase`
-
-**Frontend**
-`React` `Next.js 14` `TypeScript` `Tailwind CSS`
-
-**Tools**
-`Git` `Docker` `Vercel` `Render` `VS Code`
+[Portfolio](https://tanvi-pathare.vercel.app/) · [GitHub](https://github.com/tanv404)
