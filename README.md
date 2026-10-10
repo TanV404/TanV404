@@ -15,9 +15,9 @@
 
 I'm a Computer Science graduate student at **UC Irvine**, interested in building AI-powered applications, LLM systems, and scalable backend services.
 
-Previously at **Jio Platforms**, I contributed to production audio AI pipelines, implemented API authentication, and helped migrate AI services from Sarvam AI to Gemini.
+Previously at **Jio Platforms**, I contributed to production audio AI pipelines, implemented API authentication, and helped migrate AI services from Sarvam AI to Gemini models.
 
-- 🎓 MS in Computer Science at UC Irvine
+- 🎓 Masters in Computer Science at UC Irvine
 - 🤖 Exploring LLMs, RAG, and machine learning
 - ⚙️ Interested in backend engineering and production AI systems
 - 🚀 Always building, learning, and experimenting
