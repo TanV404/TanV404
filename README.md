@@ -96,18 +96,6 @@ A finance tracker for managing transactions, budgets, savings, and recurring sub
 
 ---
 
-## ✦ GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanv404&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanv404&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's Connect
