@@ -79,14 +79,13 @@ A finance tracker for managing transactions, budgets, savings, and recurring sub
 
 **AI / ML**
 
-![AI ML](https://skillicons.dev/icons?i=pytorch,tensorflow)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 
 **Backend & Databases**
 
-![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,docker,supabase,firebase)
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,docker,supabase)
 
 **Frontend & Tools**
 
