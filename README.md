@@ -75,7 +75,7 @@ A finance tracker for managing transactions, budgets, savings, and recurring sub
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,cpp,ts,js,postgres)
+![Languages](https://skillicons.dev/icons?i=python,ts,js,postgres)
 
 **AI / ML**
 
