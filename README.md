@@ -1,6 +1,6 @@
  <div align="center">
 
-# Tanvi Pramod Pathare
+# Tanvi Pathare
 
 ### AI/ML · LLM Applications · Backend Systems
 
